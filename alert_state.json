@@ -1,46 +1,22 @@
 {
   "bot4h|4h": {
-    "last_close_ms": 1791662400000,
-    "updated": "2026-10-10T20:01:10Z"
-  },
-  "dayMomentum|AVAXUSD|1h": {
-    "last_close_ms": 1791072000000,
-    "updated": "2026-10-04T00:01:19Z"
-  },
-  "dayMomentum|AVAXUSD|30m": {
-    "last_close_ms": 1791072000000,
-    "updated": "2026-10-04T00:01:19Z"
-  },
-  "dayMomentum|BNBUSDT|1h": {
-    "last_close_ms": 1791072000000,
-    "updated": "2026-10-04T00:01:19Z"
-  },
-  "dayMomentum|BNBUSDT|30m": {
-    "last_close_ms": 1791072000000,
-    "updated": "2026-10-04T00:01:19Z"
+    "last_close_ms": 1791676800000,
+    "updated": "2026-10-11T00:01:16Z"
   },
   "dayMomentum|HYPEUSD|1h": {
-    "last_close_ms": 1791673200000,
-    "updated": "2026-10-10T23:01:15Z"
+    "last_close_ms": 1791676800000,
+    "updated": "2026-10-11T00:01:20Z"
   },
   "dayMomentum|HYPEUSD|30m": {
-    "last_close_ms": 1791675000000,
-    "updated": "2026-10-10T23:31:01Z"
-  },
-  "dayMomentum|SOLUSDT|1h": {
-    "last_close_ms": 1791072000000,
-    "updated": "2026-10-04T00:01:19Z"
-  },
-  "dayMomentum|SOLUSDT|30m": {
-    "last_close_ms": 1791072000000,
-    "updated": "2026-10-04T00:01:19Z"
+    "last_close_ms": 1791676800000,
+    "updated": "2026-10-11T00:01:20Z"
   },
   "dayMomentum|XRPUSDT|1h": {
-    "last_close_ms": 1791673200000,
-    "updated": "2026-10-10T23:01:15Z"
+    "last_close_ms": 1791676800000,
+    "updated": "2026-10-11T00:01:20Z"
   },
   "dayMomentum|XRPUSDT|30m": {
-    "last_close_ms": 1791675000000,
-    "updated": "2026-10-10T23:31:01Z"
+    "last_close_ms": 1791676800000,
+    "updated": "2026-10-11T00:01:20Z"
   }
 }
