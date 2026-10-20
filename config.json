@@ -1,21 +1,4 @@
 {
-  "dayMomentum": [
-    {
-      "pair": "SOLUSDT",
-      "name": "SOL",
-      "timeframes": [
-        "30m",
-        "1h"
-      ]
-    },
-    {
-      "pair": "HYPEUSD",
-      "name": "HYPE",
-      "timeframes": [
-        "30m",
-        "1h"
-      ]
-    }
-  ],
+  "dayMomentum": [],
   "custom": []
 }
