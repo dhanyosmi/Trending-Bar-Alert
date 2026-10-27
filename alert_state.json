@@ -1,22 +1,6 @@
 {
   "bot4h|4h": {
-    "last_close_ms": 1793088000000,
-    "updated": "2026-10-27T10:57:13Z"
-  },
-  "dayMomentum|HYPEUSD|1h": {
-    "last_close_ms": 1792504800000,
-    "updated": "2026-10-20T14:01:18Z"
-  },
-  "dayMomentum|HYPEUSD|30m": {
-    "last_close_ms": 1792504800000,
-    "updated": "2026-10-20T14:01:18Z"
-  },
-  "dayMomentum|SOLUSDT|1h": {
-    "last_close_ms": 1792504800000,
-    "updated": "2026-10-20T14:01:18Z"
-  },
-  "dayMomentum|SOLUSDT|30m": {
-    "last_close_ms": 1792504800000,
-    "updated": "2026-10-20T14:01:18Z"
+    "last_close_ms": 1793116800000,
+    "updated": "2026-10-27T16:31:38Z"
   }
 }
